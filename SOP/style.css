@@ -13,7 +13,6 @@ body{
     background: #455160;
     font-size: larger;
     font-family: "IRANSansWeb", sans-serif;
-    text-align:center;
 }
 .center{
     display: block ;
@@ -23,7 +22,6 @@ body{
     display: block;
     font-size: 16px;
     margin: 0 3% 0 auto;
-    text-align:center;
 
 }/*class_style*/
 .center span:nth-child(1){
