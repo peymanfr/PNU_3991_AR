@@ -5,12 +5,12 @@
 body{
     position: fixed;
     direction: rtl;
-    width:90%;
-    height: 90%;
+    width:100%;
+    height: 100%;
     margin: 0;
     padding: 0;
 
-    background: #45516f;
+    background: #455160;
     font-size: larger;
     font-family: "IRANSansWeb", sans-serif;
     text-align:center;
