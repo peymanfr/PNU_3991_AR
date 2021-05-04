@@ -14,6 +14,22 @@ body{
     font-size: larger;
     font-family: "IRANSansWeb", sans-serif;
 }
+.HeaderPanel
+{
+    margin:0 auto;
+    padding:15px;
+    border-top-left-radius:6px;
+    border-top-right-radius:6px;
+    border-bottom-left-radius:6px;
+    border-bottom-right-radius:6px;
+    border-color:white;
+    border-style:solid;
+    border-width:2px;
+    text-align:center;
+    line-height:30px;
+    background-color:#ddb122;
+    color:yellow;
+}
 .center{
     display: block ;
     padding: 3%;
@@ -35,7 +51,7 @@ body{
     font-size: 16px;
     margin: 3% 3% 3% 0;
 }/*class_style*/
-<!-- -->
+
 @font-face {
     font-family: 'IRANSansWeb';
     src: url('Fonts/IranianSans.ttf');
