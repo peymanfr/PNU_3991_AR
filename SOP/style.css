@@ -13,6 +13,7 @@ body{
     background: #45516f;
     font-size: larger;
     font-family: "IRANSansWeb", sans-serif;
+    text-align:center;
 }
 .center{
     display: block ;
