@@ -22,4 +22,4 @@
 - [خلاصه ارزیابی بخش عمومی](MK_GeneralSection_CheckList_AR_3991.pdf)
 
 # گروه ها
-1. https://github.com/AliRazavi-edu
+1. https://github.com/AliRazavi-edu/PNU_3991
